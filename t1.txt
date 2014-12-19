@@ -5,3 +5,9 @@ system.out.println("helloGit");
 sysout("Clone3_Test3");
 }
 }
+public void createBranch(){
+
+sysout("create Branch dev1");
+
+}
+
